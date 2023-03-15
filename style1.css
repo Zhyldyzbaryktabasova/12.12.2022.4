@@ -70,7 +70,7 @@ background-size: 20px 20px;
 .clock-minutes {
   height: 60px;
   width: 2px;
-  background: #D56851;
+  background: #d02020;
   border-radius: 2px;
   position: absolute;
   top: calc(50% - 60px);
